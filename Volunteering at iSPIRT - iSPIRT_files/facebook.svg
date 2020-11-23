@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 5</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Wireframes" transform="translate(-490.000000, -2527.000000)">
+            <g id="Footer" transform="translate(0.000000, 2527.000000)">
+                <g id="Group-5" transform="translate(490.000000, 0.000000)">
+                    <polygon id="Fill-3" fill="#547BBC" points="0 48 48 48 48 0 0 0"></polygon>
+                    <path d="M18,19.9369857 L20.5704886,19.9369857 L20.5704886,17.5259817 C20.5704886,16.4622619 20.5982698,14.8229485 21.399537,13.8071949 C22.2417449,12.732189 23.3997807,12 25.3897892,12 C28.6328744,12 30,12.445803 30,12.445803 L29.3566468,16.1222666 C29.3566468,16.1222666 28.2848788,15.8231836 27.2862191,15.8231836 C26.2860972,15.8231836 25.3897892,16.168822 25.3897892,17.1337879 L25.3897892,19.9369857 L29.4897039,19.9369857 L29.2045815,23.5273924 L25.3897892,23.5273924 L25.3897892,36 L20.5704886,36 L20.5704886,23.5273924 L18,23.5273924 L18,19.9369857 Z" id="Fill-6" fill="#FEFEFE"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
